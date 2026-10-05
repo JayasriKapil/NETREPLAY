@@ -1,0 +1,1 @@
+"""Voice stamp transcription integration."""
